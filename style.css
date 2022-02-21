@@ -1,0 +1,9 @@
+h1{
+    text-align: center;
+    color: white;
+}
+
+body{
+    background-image: url("./image_fond_ecran.jpg");
+    height: 50%;
+}
